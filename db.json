@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": "b904cdb9-a8f4-4a95-bfdd-e59f3053f78e",
+      "name": "Coke"
+    },
+    {
+      "id": "095e8549-4e73-4cd2-bb56-fef13db8916b",
+      "name": "Soda"
+    },
+    {
+      "id": "a5420e14-57cc-4b2c-a7a9-82c167b74c3b",
+      "name": "Rach"
+    }
+  ]
+}
